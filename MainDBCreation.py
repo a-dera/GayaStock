@@ -150,7 +150,7 @@ def super_user():
     
     cursorObj = con.cursor()
 
-    cursorObj.execute("INSERT INTO utilisateurs VALUES(null,'admin', 'admin', 'dera.amedee@gmail.com', 'Franck2013', '56833675','dera.amedee@gmail.com', ?) ", (dtx,))
+    cursorObj.execute("INSERT INTO utilisateurs VALUES(null,'admin', 'admin', 'dera.amedee@gmail.com', '13Kona$JuopY%', '56833675','dera.amedee@gmail.com', ?) ", (dtx,))
 
 
     con.commit()
