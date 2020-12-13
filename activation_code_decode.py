@@ -17,13 +17,13 @@ def decode(x,y,z,p,s):
 
     a = int(a)
 
-    if a == 2020:
+    if a == 2021:
         t = 4
-    elif a == 2021:
-        t = 5
     elif a == 2022:
-        t = 6
+        t = 5
     elif a == 2023:
+        t = 6
+    elif a == 2024:
         t = 7
     else:
         t = 100
