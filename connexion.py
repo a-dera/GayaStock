@@ -118,7 +118,7 @@ class Test(MDApp):
 
         pop = Popup(
             title='Invalid Form', 
-            content=Label(text='No Item Found With This Name'), 
+            content=Label(text='Erreur de connexion veuillez vérifier vos identifiants.' ), 
             size_hint=(None, None), 
             size=(400, 400)
         )
