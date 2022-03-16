@@ -8,6 +8,7 @@ Application desktop de gestion de stock
 Python, Kivy, KivyMD
 
 
+# Auteur
 Amédée DERA, 2020
 
 
